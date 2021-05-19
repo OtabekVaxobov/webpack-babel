@@ -1,9 +1,16 @@
 lesson1/node_modules
-lesson2/node_modules
-
+lesson2/task1/node_modules
+lesson2/task2/node_modules
+lesson2/task3/node_modules
+lesson2/task4/node_modules
+lesson2/task5/node_modules
 
 .vscode
+dist
 
 lesson1/dist
-
-dist
+lesson2/task1/dist
+lesson2/task2/dist
+lesson2/task3/dist
+lesson2/task4/dist
+lesson2/task5/dist
