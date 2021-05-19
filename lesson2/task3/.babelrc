@@ -3,7 +3,9 @@
         [
             "@babel/preset-env", 
         {
-            "targets": "> 90%"
+            "targets": "> 1%",
+            "useBuiltIns": "usage",
+            "corejs": 3
         }
         ]
         

@@ -1,5 +1,5 @@
 {
-  "name": "task2",
+  "name": "task3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,8 @@
     "@babel/cli": "^7.14.3",
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.2"
+  },
+  "dependencies": {
+    "core-js": "^2.6.12"
   }
 }
